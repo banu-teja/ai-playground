@@ -1,0 +1,12 @@
+notebook
+pydantic-ai
+langchain
+langchain-openai
+langchain-google-genai
+autogen-core
+langchain-deepseek
+langgraph
+langchain-xai
+openai-agents
+playwright
+browser-use
